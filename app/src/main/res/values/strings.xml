@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BarAppChermyanin</string>
+    <string name="action_settings_in_app">Settings</string>
+    <string name="action_open_notes_in_app">Записная книжка</string>
+    <string name="btn_SaveNote">СОХРАНИТЬ</string>
+    <string name="input_Note">Введите заметку</string>
+</resources>
