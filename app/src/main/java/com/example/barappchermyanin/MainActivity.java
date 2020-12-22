@@ -37,6 +37,14 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(MainActivity.this, "Отркыть записную книжку", Toast.LENGTH_LONG).show();
             return true;
         }
+
+        if (id == R.id.action_open_terms) {
+            Intent intentNotes = new Intent(MainActivity.this, TermsActivity.class);
+            startActivity(intentNotes);
+
+            Toast.makeText(MainActivity.this, "Отркыть сроки задач", Toast.LENGTH_LONG).show();
+            return true;
+        }
         return super.onOptionsItemSelected(item);
     }
 }

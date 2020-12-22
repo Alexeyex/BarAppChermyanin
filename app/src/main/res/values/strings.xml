@@ -2,6 +2,10 @@
     <string name="app_name">BarAppChermyanin</string>
     <string name="action_settings_in_app">Settings</string>
     <string name="action_open_notes_in_app">Записная книжка</string>
+    <string name="action_open_terms_in_app">Сроки задачи</string>
     <string name="btn_SaveNote">СОХРАНИТЬ</string>
     <string name="input_Note">Введите заметку</string>
+    <string name="btn_OK">ОК</string>
+    <string name="choose_EndDate">ДАТА-ВРЕМЯ ОКОНЧАНИЯ ЗАДАЧИ:</string>
+    <string name="choose_StartDate">ДАТА-ВРЕМЯ СТАРТА ЗАДАЧИ:</string>
 </resources>
